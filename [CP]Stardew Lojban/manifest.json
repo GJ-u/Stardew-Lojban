@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Stardew Lojban",
+  "Author": "la lalxu",
+  "Version": "1.0.0",
+  "MinimumApiVersion": "3.13.2",
+  "Description": "Lojban translation of Stardew Valley",
+  "UniqueID": "LaLalxu.StardewLojban",
+  // "UpdateKeys": ["Nexus:3974"],
+    "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+	"MinimumVersion": "1.24.7" // optional
+    }
+}

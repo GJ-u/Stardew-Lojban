@@ -1,0 +1,17 @@
+{
+  "UnderConstruction": ".i ca'o zbasu...",
+  "DismountBeforeEntering": ".i ko co'u cpana",
+  "PiecesOfHay": "loni sudysrasu spisa zo'u: {0}/{1}",
+  "AddedHay": ".i do punji {0} spisa be lo sudysrasu",
+  "MillFull": ".i culno",
+  "CantMill": ".i ka'enai te fanri",
+  "NeedSilo": ".i lo grutersro cu se nitcu",
+  "CantEnter": "ka'enai nerkla caku",
+  "WrongFishType": ".i lo do {0} na djica co xabju le {1} lalxu",
+  "WrongFishTypeCoral": ".i curmi fa lo nu lo {0} se punji fi lo {0} lalxu",
+  "CantPutInPonds": "The {0} wouldn't be happy in there.",
+  "NoFish": ".i ka'e punji lo finpe lo lalxu",
+  "PondFull": ".i ti'oi lalxu cu culno",
+  "Paint_Region_Roof": "le drudi",
+  "Paint_Region_Building": "le drudi"
+}
